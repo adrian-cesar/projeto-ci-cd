@@ -4,14 +4,16 @@
   "description": "Grupo: Adrian Cesar Gonçalves, Renato Colin Neto, Igor Thiago Seberino, Gabriel da Silva Carvalho",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",
-  "test": "jest"
-},
+    "start": "node index.js",
+    "test": "jest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
     "jest": "^30.2.0",
     "supertest": "^7.1.4"
   }
